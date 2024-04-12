@@ -1,0 +1,3 @@
+https://github.com/OljaGord/Py_Flask/blob/master/main.py - лаба 1
+
+Нужно прикладывать скриншот там, где нужно показать функциональность
